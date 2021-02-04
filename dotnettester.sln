@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnettester", "dotnettester\dotnettester.csproj", "{0770B826-4A7C-4C37-985F-4F4E6E5F9613}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnettester", "dotnettester\dotnettester.csproj", "{0770B826-4A7C-4C37-985F-4F4E6E5F9613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStore", "BikeStore\BikeStore.csproj", "{299B9AAB-0FC6-4F40-A65A-96AB3EAB85D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{6F082341-F87F-485D-B595-85CF76E02B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3C176D26-BF05-48A0-8E99-326311841DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeDataAccess", "BikeDataAccess\BikeDataAccess.csproj", "{6293D3BF-A04C-4376-AB4F-32FB154E831F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{0770B826-4A7C-4C37-985F-4F4E6E5F9613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0770B826-4A7C-4C37-985F-4F4E6E5F9613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0770B826-4A7C-4C37-985F-4F4E6E5F9613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299B9AAB-0FC6-4F40-A65A-96AB3EAB85D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299B9AAB-0FC6-4F40-A65A-96AB3EAB85D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299B9AAB-0FC6-4F40-A65A-96AB3EAB85D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299B9AAB-0FC6-4F40-A65A-96AB3EAB85D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F082341-F87F-485D-B595-85CF76E02B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F082341-F87F-485D-B595-85CF76E02B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F082341-F87F-485D-B595-85CF76E02B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F082341-F87F-485D-B595-85CF76E02B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C176D26-BF05-48A0-8E99-326311841DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C176D26-BF05-48A0-8E99-326311841DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C176D26-BF05-48A0-8E99-326311841DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C176D26-BF05-48A0-8E99-326311841DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6293D3BF-A04C-4376-AB4F-32FB154E831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6293D3BF-A04C-4376-AB4F-32FB154E831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6293D3BF-A04C-4376-AB4F-32FB154E831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6293D3BF-A04C-4376-AB4F-32FB154E831F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

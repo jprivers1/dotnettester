@@ -1,0 +1,12 @@
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\BikeDataAccess.dll.config
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\BikeDataAccess.dll
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\BikeDataAccess.pdb
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\obj\Debug\BikeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\obj\Debug\BikeDataAccess.csproj.CopyComplete
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\obj\Debug\BikeDataAccess.dll
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\obj\Debug\BikeDataAccess.pdb
+C:\Users\jpriv\source\repos\dotnettester\BikeDataAccess\obj\Debug\BikeDataAccess.csprojAssemblyReference.cache
