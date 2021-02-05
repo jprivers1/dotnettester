@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\dotnettester\\dotnettester.csproj": {}
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\dotnettester\\dotnettester.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\dotnettester\\dotnettester.csproj": {
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\dotnettester\\dotnettester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\dotnettester\\dotnettester.csproj",
+        "projectUniqueName": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\dotnettester\\dotnettester.csproj",
         "projectName": "dotnettester",
-        "projectPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\dotnettester\\dotnettester.csproj",
+        "projectPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\dotnettester\\dotnettester.csproj",
         "packagesPath": "C:\\Users\\jpriv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\dotnettester\\obj\\",
+        "outputPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\dotnettester\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

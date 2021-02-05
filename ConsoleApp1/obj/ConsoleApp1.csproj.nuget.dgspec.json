@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\jpriv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

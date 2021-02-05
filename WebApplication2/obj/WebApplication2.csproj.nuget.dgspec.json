@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\WebApplication2\\WebApplication2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpriv\\source\\repos\\dotnettester\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\WebApplication2\\WebApplication2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\WebApplication2\\WebApplication2.csproj",
         "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\WebApplication2\\WebApplication2.csproj",
+        "projectPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\WebApplication2\\WebApplication2.csproj",
         "packagesPath": "C:\\Users\\jpriv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpriv\\source\\repos\\dotnettester\\WebApplication2\\obj\\",
+        "outputPath": "C:\\Users\\jpriv\\Source\\Repos\\dotnettester\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,6 +7,7 @@ using System.Web.Http;
 using System.Data.Entity;
 using BikeDataAccess;
 using System.IO;
+using System.Data.SqlClient;
 
 namespace BikeStore.Controllers
 {
@@ -70,10 +71,25 @@ namespace BikeStore.Controllers
         {
             using (BikeStoresEntities entities = new BikeStoresEntities())
             {
+                string connectionString = @"data source = JasonASUS; initial catalog = BikeStores; Trusted_Connection = true";
+                SqlConnection con = new SqlConnection(connectionString);
+                con.Open();
+                SqlCommand command = new SqlCommand("select * from production.products;", con);
+                SqlDataReader reader = command.ExecuteReader();
+                string output;
+                while (reader.Read())
+                {
+                    output = reader.GetValue(1) + "";
+                }
+
+
+
+
                 return entities.products
-                    .Include(x => x.stocks)
-                    .Include(x => x.order_items)
-                    .FirstOrDefault(e => e.product_id == id);
+                    .SqlQuery("select * from production.products where product_id = 1;").ToList()[0];
+                    //.Include(x => x.stocks)
+                    //.Include(x => x.order_items)
+                    //.FirstOrDefault(e => e.product_id == id);
             }
         }
 
